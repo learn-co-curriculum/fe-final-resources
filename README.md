@@ -6,7 +6,7 @@ resources: 8
 ---
 
 ## Resources
-
+- [Eric Elliot's Essential JS Resource List](https://gist.github.com/ericelliott/d576f72441fc1b27dace)
 - [eBook - JavaScript Design Patterns - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [JavaScript Patterns Code Collection - Shi Chuan](http://shichuan.github.io/javascript-patterns/)
 - [MVC Framework - Angular.js](https://angularjs.org/)
