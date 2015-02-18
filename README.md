@@ -18,3 +18,6 @@ resources: 8
 - [Event Brite - Hackathon Listings](https://www.eventbrite.com/directory?q=hackathon&loc=New+York%2C+NY)
 - [Highest Rated Sites under 10k filesize](http://10k.aneventapart.com/)
 - [Webby Awards](http://www.webbyawards.com/winners/2014/)
+- [Awwwards](http://www.awwwards.com/)
+- [CSS Winner](http://www.csswinner.com/)
+- [Code Pen](http://codepen.io/)
