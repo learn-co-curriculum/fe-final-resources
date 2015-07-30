@@ -1,9 +1,4 @@
----
-language: none
-tags: front-end, fe, resources
-type: resources
-resources: 8
----
+
 
 ## Resources
 - [Eric Elliot's Essential JS Resource List](https://gist.github.com/ericelliott/d576f72441fc1b27dace)
