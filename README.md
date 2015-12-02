@@ -16,3 +16,5 @@
 - [Awwwards](http://www.awwwards.com/)
 - [CSS Winner](http://www.csswinner.com/)
 - [Code Pen](http://codepen.io/)
+
+<a href='https://learn.co/lessons/fe-final-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
