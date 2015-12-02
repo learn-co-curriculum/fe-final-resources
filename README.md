@@ -18,3 +18,5 @@
 - [Code Pen](http://codepen.io/)
 
 <a href='https://learn.co/lessons/fe-final-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<a href='https://learn.co/lessons/fe-final-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
